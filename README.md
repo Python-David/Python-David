@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate blockchain developer with a particular interest in DeFi. I like to find simple and efficient solutions to seemingly complex problems. I am a lifelong leaner with a huge appetite for knowledge.</h3>
+<h3 align="center">I like to find simple and efficient solutions to seemingly complex problems. I am a lifelong learner with a huge appetite for knowledge.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-david&label=Profile%20views&color=0e75b6&style=flat" alt="python-david" /> </p>
 
