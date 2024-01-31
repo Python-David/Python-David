@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-david&label=Profile%20views&color=0e75b6&style=flat" alt="python-david" /> </p>
 
-<p align="left"> <a href="https://twitter.com/iambarzini_" target="blank"><img src="https://img.shields.io/twitter/follow/iambarzini_?logo=twitter&style=for-the-badge" alt="iambarzini_" /></a> </p>
-
 - 🔭 I’m currently working on [Multi-Sig Wallet Factory](https://github.com/Python-David/portfolio-multi-sig-wallet)
 
 - 🌱 I’m currently learning **ReactJs**
