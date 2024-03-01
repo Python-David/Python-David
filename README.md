@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-david&label=Profile%20views&color=0e75b6&style=flat" alt="python-david" /> </p>
 
-- 🔭 I’m currently working on [Abatua: a full-stack Django e-commerce application](https://github.com/Python-David/abatua)
+- 🔭 I’m currently working on [PyFinance: a simple tool for personal finance tracking](https://github.com/Python-David/pyfinance)
 
 - 🌱 I’m currently learning **ReactJs**
 
