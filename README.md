@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-david&label=Profile%20views&color=0e75b6&style=flat" alt="python-david" /> </p>
 
-- 🔭 I’m currently working on [PyFinance: a simple tool for personal finance tracking](https://github.com/Python-David/pyfinance)
+- 🔭 I’m currently working on [VaulteDB: SQLite for encrypted documents](https://github.com/Python-David/vaultedb)
 
 - 🌱 I’m currently learning **ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Python-David](https://github.com/Python-David)
 
-- 💬 Ask me about **Solidity, Python, Javascript, Backend**
+- 💬 Ask me about **Python, Django, FastAPI, Backend**
 
 - 📫 How to reach me **mrnwobodo@gmail.com**
 
