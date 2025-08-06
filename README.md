@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [VaulteDB: SQLite for encrypted documents](https://github.com/Python-David/vaultedb)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **CS50-AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Python-David](https://github.com/Python-David)
 
