@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=python-david&label=Profile%20views&color=0e75b6&style=flat" alt="python-david" /> </p>
 
-- 🔭 I’m currently working on [VaulteDB: SQLite for encrypted documents](https://github.com/Python-David/vaultedb)
+- 🔭 I’m currently working on [Baqo: a production-ready webhook control plane](https://github.com/Python-David/baqo-deploy)
 
 - 🌱 I’m currently learning **CS50-AI**
 
