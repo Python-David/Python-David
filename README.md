@@ -27,9 +27,6 @@
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
   </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://logo.svgcdn.com/l/flask-original.svg" alt="flask" width="40" height="40"/>
-  </a>
 
   <!-- Databases -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
@@ -54,9 +51,6 @@
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" width="40" height="40"/>
-  </a>
-  <a href="https://docs.celeryq.dev/" target="_blank" rel="noreferrer">
-    <img src="https://www.celeryproject.org/images/celery_logo.png" alt="celery" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
