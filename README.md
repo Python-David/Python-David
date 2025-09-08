@@ -28,7 +28,7 @@
     <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="40" height="40"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    <img src="https://logo.svgcdn.com/l/flask-original.svg" alt="flask" width="40" height="40"/>
   </a>
 
   <!-- Databases -->
@@ -82,6 +82,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=python-david&show_icons=true&locale=en&layout=compact" alt="python-david" /></p>
