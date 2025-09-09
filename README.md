@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Baqo: a production-ready webhook control plane](https://github.com/Python-David/baqo-deploy)
 
-- 🌱 I’m currently learning **CS50-AI**
+- 🌱 I’m currently learning **Rust 🦀**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Python-David](https://github.com/Python-David)
 
